@@ -9,8 +9,8 @@ int main(){
 //problem 1
 
     set<int> s1 = { 1, 2, 2, 3, 3, 4, 5 };
-    cout<<"Number of unique elements: "<<s1.size()<<endl;*/
-    /*map<int, int> m1;
+    cout<<"Number of unique elements: "<<s1.size()<<endl;
+    map<int, int> m1;
     int arr[] = {1,2,2,3,3,4,5};
     for(int i : arr) m1[i] = i;
     cout << "Number of unique elements: " << m1.size() << endl;
